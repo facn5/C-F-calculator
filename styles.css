@@ -11,8 +11,12 @@ body {
     transition: all 2s ease;
 }
 a.button {
-  border:0;
-  color:#fff;
+  background:#24b4de;
+color:#fff;
+font-size:26px;
+cursor: pointer;
+outline:none;
+border-bottom:3px solid #399cb9;
 }
 button {
     border:0;
