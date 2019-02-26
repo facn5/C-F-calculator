@@ -10,7 +10,10 @@ body {
     /* -webkit-animation:bgChange 2s 2s alternate infinite; */
     transition: all 2s ease;
 }
-
+a.button {
+  border:0;
+  color:#fff;
+}
 button {
     border:0;
     color:#fff;
