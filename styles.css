@@ -22,7 +22,9 @@ button {
     border:0;
     color:#fff;
 }
+input.button{
 
+}
 #result {
     display:block;
     font-family: sans-serif;
