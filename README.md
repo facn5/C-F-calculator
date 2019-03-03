@@ -1,3 +1,4 @@
 # C-F-calculator
 First week project - Java Script Calculator
-[The Calculater Site](https://majdya.github.io/C-F-calculator/)
+You can check it [here.]
+(https://majdya.github.io/C-F-calculator/)
