@@ -140,7 +140,7 @@ input.button{
 /*Adding a background color to the delete button */
 .del-bg {
     background:#24b4de;
-    color:#fff;
+    color:#FFFFFF;
     font-size:26px;
     cursor: pointer;
     outline:none;
