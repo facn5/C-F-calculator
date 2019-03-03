@@ -1,7 +1,9 @@
 body {
   background:#777;
 }
-
+.colorFFFFFF{
+  color : #FFFFFF;
+}
 #background {
     width:300px;
     height:400px;
@@ -25,7 +27,7 @@ button {
 input.button{
 
 }
-#result {
+#result{
     display:block;
     font-family: sans-serif;
     width:230px;
@@ -34,7 +36,6 @@ input.button{
     text-align: right;
     border:0;
     background:#3b3535;
-    color:#fff;
     padding-top:20px;
     font-size:20px;
     margin-left: 25px;
@@ -102,7 +103,6 @@ input.button{
 /* Adding background color to the number values */
  .num-bg {
     background:#000;
-    color:#fff;
     font-size:26px;
     cursor:pointer;
     outline:none;
@@ -111,7 +111,7 @@ input.button{
 
  .num-bg:active {
     background:#000;
-    color:#fff;
+     /* color:#fff; */
     font-size:26px;
     cursor:pointer;
     outline:none;
@@ -121,7 +121,6 @@ input.button{
 /*Adding background color to the operator values */
 .opera-bg {
     background:#333;
-    color:#fff;
     font-size:26px;
     cursor: pointer;
     outline:none;
@@ -140,7 +139,6 @@ input.button{
 /*Adding a background color to the delete button */
 .del-bg {
     background:#24b4de;
-    color:#FFFFFF;
     font-size:26px;
     cursor: pointer;
     outline:none;
@@ -149,7 +147,7 @@ input.button{
 
 .del-bg:active {
     background:#24b4de;
-    color:#fff;
+    /* color:#FFFFFF; */
     font-size:26px;
     cursor: pointer;
     outline:none;
@@ -159,7 +157,6 @@ input.button{
 /*Adding a background color to the equals to button */
 #eqn-bg {
     background:#17a928;
-    color:#fff;
     font-size:26px;
     cursor: pointer;
     outline:none;
@@ -168,7 +165,7 @@ input.button{
 
 #eqn-bg:active {
     background:#17a928;
-    color:#fff;
+    /* color:#fff; */
     font-size:26px;
     cursor: pointer;
     outline:none;
